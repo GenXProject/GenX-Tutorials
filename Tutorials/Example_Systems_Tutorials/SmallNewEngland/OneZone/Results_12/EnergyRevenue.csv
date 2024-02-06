@@ -1,5 +1,0 @@
-Region,Resource,Zone,Cluster,AnnualSum
-NE,natural_gas_combined_cycle,1,1,3.631734679015876e9
-NE,solar_pv,1,1,3.3120093382606483e9
-NE,onshore_wind,1,1,3.689713302894834e9
-NE,battery,1,0,1.7746326631695719e9
