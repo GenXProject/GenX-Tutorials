@@ -54,7 +54,7 @@ Packages needed are:
 * Plotly
 
 ### Tutorial 7: Setup -- Policy Constraints
-Tutorial 7 goes over policy constraints CO$_2$ Cap, Minimum Capacity, Energy Share Requirement, and Capacity Reserve Margin, shows how to turn them on in GenX, and how they decrease total emissions.
+Tutorial 7 goes over policy constraints CO2 Cap, Minimum Capacity, Energy Share Requirement, and Capacity Reserve Margin, shows how to turn them on in GenX, and how they decrease total emissions.
 Packages needed are:
 * JuMP
 * HiGHS
