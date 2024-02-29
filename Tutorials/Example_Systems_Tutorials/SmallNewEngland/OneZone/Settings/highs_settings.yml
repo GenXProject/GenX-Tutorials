@@ -1,6 +1,0 @@
-Method: "choose"
-Feasib_Tol: 1.0e-5
-run_crossover: "on"
-TimeLimit: 1.0e23
-Optimal_Tol: 1.0e-5
-Pre_Solve: "choose"
