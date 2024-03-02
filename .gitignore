@@ -19,6 +19,6 @@ Highs.log
 ~$*
 
 # Never include output folders
-**/Results*/
-**/TDR_Results/
+**/results*/
+**/TDR_results/
 **/.ipynb_checkpoints/
