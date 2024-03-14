@@ -14,7 +14,7 @@ Packages needed are:
 * DataFrames
 
 ### Tutorial 2: Network Visualization
-Tutorial 2 shows how the example grid in `SmallNewEngland/ThreeZones` looks on a map of New England. 
+Tutorial 2 shows how the example grid in `example_systems/1_three_zones` looks on a map of New England. 
 Packages needed are:
 * CSV
 * DataFrames
