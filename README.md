@@ -19,8 +19,8 @@ Packages needed are:
 * CSV
 * DataFrames
 
-### Tutorial 3: K-means and Time Domain Reduction
-Tutorial 3 goes over the Time Domain Reduction (TDR) feature, how it is configured, and how it uses k-means to work.
+### Tutorial 3: _K_-means and Time Domain Reduction
+Tutorial 3 goes over the Time Domain Reduction (TDR) feature, how it is configured, and how it uses _k_-means to work.
 Packages needed are:
 * YAML
 * CSV
