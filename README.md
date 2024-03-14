@@ -1,6 +1,8 @@
 # GenX-Tutorials
 Welcome to the GenX Tutorials! In this series, we go over several aspects of GenX and how to use them. 
 
+These Tutorials are set to run on GenX version 0.4.0. To run on version 0.3.6, go to the branch v0.3.6 on this repository.
+
 To run these tutorials, make sure to have Jupyter notebook installed. From there, Tutorial 0 goes over how to install IJulia and GenX. 
 
 ### Tutorial 0: Getting Started:
