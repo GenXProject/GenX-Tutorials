@@ -1,4 +1,6 @@
 # GenX-Tutorials
+_Developed by Maya Mutic, Princeton Andlinger Center for the Environment_
+
 Welcome to the GenX Tutorials! In this series, we go over several aspects of GenX and how to use them. 
 
 These Tutorials are set to run on GenX version 0.4.0. To run on version 0.3.6, go to the branch v0.3.6 on this repository.
