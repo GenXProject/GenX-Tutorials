@@ -1,5 +1,5 @@
 # GenX-Tutorials
-_Developed by Maya Mutic, Princeton Andlinger Center for the Environment_
+_Developed by Maya Mutic, Princeton Andlinger Center for Energy and the Environment_
 
 Welcome to the GenX Tutorials! In this series, we go over several aspects of GenX and how to use them. 
 
