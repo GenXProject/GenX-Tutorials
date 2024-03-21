@@ -1,6 +1,6 @@
 Method: "ipm"
-Feasib_Tol: 1.0e-5
+Feasib_Tol: 1.0e-7
 run_crossover: "on"
 TimeLimit: 1.0e23
-Optimal_Tol: 1.0e-5
+Optimal_Tol: 1.0e-7
 Pre_Solve: "choose"
