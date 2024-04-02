@@ -9,5 +9,5 @@ ComputeConflicts: 1
 UCommit: 2
 MaxCapReq: 0
 MinCapReq: 1
-CO2Cap: 2
+CO2Cap: 0
 WriteShadowPrices: 1
