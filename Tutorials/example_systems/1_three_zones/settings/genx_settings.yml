@@ -5,9 +5,8 @@ TimeDomainReduction: 1
 Trans_Loss_Segments: 1
 CapacityReserveMargin: 0
 StorageLosses: 1
-ComputeConflicts: 1
 UCommit: 2
 MaxCapReq: 0
 MinCapReq: 1
-CO2Cap: 0
+CO2Cap: 2
 WriteShadowPrices: 1
