@@ -1,0 +1,59 @@
+﻿State,State Tax Rate,State Tax Rank,Avg. Local Tax Rate,Combined Rate,Combined Rank,Max Local Tax Rate
+Alabama,4.00%,40,5.289%,9.289%,5,7.500%
+Alaska,0.00%,46,1.821%,1.821%,46,7.850%
+Arizona,5.60%,28,2.783%,8.383%,12,5.300%
+Arkansas,6.50%,9,2.969%,9.469%,3,6.125%
+California (a),7.25%,1,1.552%,8.802%,8,4.750%
+Colorado,2.90%,45,4.907%,7.807%,16,8.300%
+Connecticut,6.35%,12,0.000%,6.350%,33,0.000%
+Delaware,0.00%,46,0.000%,0.000%,47,0.000%
+Florida,6.00%,17,1.002%,7.002%,24,2.000%
+Georgia,4.00%,40,3.423%,7.423%,19,5.000%
+Hawaii (b),4.00%,40,0.500%,4.500%,45,0.500%
+Idaho,6.00%,17,0.027%,6.027%,37,3.000%
+Illinois,6.25%,13,2.621%,8.871%,7,4.750%
+Indiana,7.00%,2,0.000%,7.000%,25,0.000%
+Iowa,6.00%,17,0.943%,6.943%,29,2.000%
+Kansas,6.50%,9,2.276%,8.776%,9,4.250%
+Kentucky,6.00%,17,0.000%,6.000%,38,0.000%
+Louisiana,4.45%,37,5.115%,9.565%,1,7.000%
+Maine,5.50%,29,0.000%,5.500%,43,0.000%
+Maryland,6.00%,17,0.000%,6.000%,38,0.000%
+Massachusetts,6.25%,13,0.000%,6.250%,35,0.000%
+Michigan,6.00%,17,0.000%,6.000%,38,0.000%
+Minnesota,6.88%,6,1.248%,8.123%,15,3.000%
+Mississippi,7.00%,2,0.062%,7.062%,22,1.000%
+Missouri,4.225%,38,4.161%,8.386%,11,5.875%
+Montana (c),0.00%,46,0.000%,0.000%,47,0.000%
+Nebraska,5.50%,29,1.469%,6.969%,28,2.000%
+Nevada,6.85%,7,1.386%,8.236%,13,1.525%
+New Hampshire,0.00%,46,0.000%,0.000%,47,0.000%
+New Jersey (d),6.625%,8,-0.024%,6.601%,30,3.313%
+New Mexico (b),4.875%,34,2.751%,7.626%,17,4.563%
+New York,4.00%,40,4.532%,8.532%,10,4.875%
+North Carolina,4.75%,35,2.246%,6.996%,27,2.750%
+North Dakota,5.00%,32,2.044%,7.044%,23,3.500%
+Ohio,5.75%,27,1.488%,7.238%,21,2.250%
+Oklahoma,4.50%,36,4.503%,9.003%,6,7.000%
+Oregon,0.00%,46,0.000%,0.000%,47,0.000%
+Pennsylvania,6.00%,17,0.341%,6.341%,34,2.000%
+Rhode Island,7.00%,2,0.000%,7.000%,25,0.000%
+South Carolina,6.00%,17,1.499%,7.499%,18,3.000%
+South Dakota (b),4.20%,39,1.911%,6.111%,36,4.500%
+Tennessee,7.00%,2,2.556%,9.556%,2,2.750%
+Texas,6.25%,13,1.950%,8.200%,14,2.000%
+Utah (a),6.10%,16,1.159%,7.259%,20,4.200%
+Vermont,6.00%,17,0.372%,6.372%,32,1.000%
+Virginia (a),5.30%,31,0.471%,5.771%,41,2.700%
+Washington,6.50%,9,2.952%,9.452%,4,4.100%
+West Virginia,6.00%,17,0.569%,6.569%,31,1.000%
+Wisconsin,5.00%,32,0.696%,5.696%,42,2.900%
+Wyoming,4.00%,40,1.441%,5.441%,44,2.000%
+District of Columbia,6.00%,N/A,0.000%,6.000%,N/A,0.000%
+,,,,,,
+"Note: City, county and municipal rates vary. Local rates are weighted by population to compute an average local tax rate.",,,,,,
+"(a) Three states levy mandatory, statewide, local add-on sales taxes at the state level: California (1.25%), Utah (1.25%), and Virginia (1%). We include these in their state sales tax.",,,,,,
+"(b) The sales taxes in Hawaii, New Mexico, and South Dakota have broad bases that include many business-to-business services.",,,,,,
+(c) Special taxes in local resort areas are not counted here.,,,,,,
+"(d) Salem County, N.J., is not subject to the statewide sales tax rate and collects a local rate of 3.3125%. New Jersey’s local score is represented as a negative.",,,,,,
+Sources: Sales Tax Clearinghouse; Tax Foundation calculations; State Revenue Department websites.,,,,,,

@@ -1,0 +1,53 @@
+﻿Zone Num,Zone Code,,Zone Name,2025,2030,2035,2040
+z1,BASN,25,WECC/Basin,1.381592,1.607893,1.683461,1.891329
+z2,CANO,21,WECC/CA North,1.883069,1.950844,2.230129,2.417849
+z3,CASO,22,WECC/CA South,2.26923,2.325981,2.559209,2.77551
+z4,FRCC,2,Florida Reliability Coordinating Council,0.941259,1.138343,1.236981,1.316086
+z5,ISNE,7,NPCC/ New England,4.172679,4.563132,4.706566,4.878554
+z6,MISC,4,Midcontinent ISO/Central,0.979434,1.139203,1.225732,1.2317
+z7,MISE,5,Midcontinent ISO/East,1.808289,1.925498,1.945852,1.984172
+z8,MISS,6,Midcontinent ISO/South,1.245611,1.51478,1.650051,1.706779
+z9,MISW,3,Midcontinent ISO/West,1.709433,1.947875,2.000347,2.074102
+z10,NWPP,23,WECC/Northwest Power Pool,1.541612,1.699607,1.78986,1.938702
+z11,NYCW,8,NPCC/NYC & Long Island,3.613647,4.035999,4.478157,4.573532
+z12,NYUP,9,NPCC/Upstate NY,2.138415,2.329111,2.439434,2.525045
+z13,PJMC,12,PJM/Commonwealth Edison,1.385712,1.4322,1.46902,1.531232
+z14,PJMD,13,PJM/Dominion,0.795317,0.933398,1.047971,1.148854
+z15,PJME,10,PJM/East,2.187293,2.370478,2.462658,2.503769
+z16,PJMW,11,PJM/West,1.586637,1.677266,1.740606,1.744723
+z17,RMRG,24,WECC/Rockies,1.159032,1.524576,1.520664,1.539313
+z18,SPPC,18,Southwest Power Pool/Central,1.610037,1.803148,1.829161,1.872937
+z19,SPPN,19,Southwest Power Pool/North,1.212532,1.443718,1.492251,1.509413
+z20,SPPS,17,Southwest Power Pool/South,1.337166,1.522274,1.510312,1.511217
+z21,SRCA,14,SERC Reliability Corporation/East,0.921145,1.127045,1.27012,1.395467
+z22,SRCE,16,SERC Reliability Corporation/Central,0.98788,1.139083,1.242793,1.37355
+z23,SRSE,15,SERC Reliability Corporation/Southeast,1.139763,1.369079,1.488305,1.568683
+z24,SRSG,20,WECC/Southwest,1.227148,1.462816,1.62386,1.615502
+z25,TRE,1,Texas Reliability Entity,2.08357,2.187091,2.203654,2.239986
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

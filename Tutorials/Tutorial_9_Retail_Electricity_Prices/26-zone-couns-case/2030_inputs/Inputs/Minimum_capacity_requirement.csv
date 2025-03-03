@@ -1,0 +1,14 @@
+MinCapReqConstraint,Constraint_Description,Min_MW
+1,NY_offshorewind,4360.0
+2,PJME_offshorewind,5522.5
+3,PJMD_offshorewind,2640.0
+4,ISNE_offshorewind,8945.0
+5,SRCA_offshorewind,2800.0
+6,NY_storage,6000.0
+7,PJME_storage,2000.0
+8,PJMD_storage,0.0
+9,ISNE_storage,2400.0
+10,BASN_storage,1000.0
+11,national_coal,0.0
+12,national_solar,0.0
+13,national_wind,0.0
